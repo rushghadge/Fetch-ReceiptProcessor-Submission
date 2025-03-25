@@ -1,0 +1,12 @@
+com/rush/fetch/receiptprocessor/customexception/ReceiptIDNotFoundException.class
+com/rush/fetch/receiptprocessor/controller/ReceiptController.class
+com/rush/fetch/receiptprocessor/repository/ReceiptRepository.class
+com/rush/fetch/receiptprocessor/model/Receipt.class
+com/rush/fetch/receiptprocessor/model/Receipt$Item.class
+com/rush/fetch/receiptprocessor/dto/ReceiptDataDTO.class
+com/rush/fetch/receiptprocessor/service/impl/ReceiptProcessorServiceImpl.class
+com/rush/fetch/receiptprocessor/ReceiptApplication.class
+com/rush/fetch/receiptprocessor/dto/ReceiptIdDTO.class
+com/rush/fetch/receiptprocessor/dto/ReceiptDataDTO$ItemDTO.class
+com/rush/fetch/receiptprocessor/dto/ReceiptPointsDTO.class
+com/rush/fetch/receiptprocessor/service/ReceiptProcessorService.class
